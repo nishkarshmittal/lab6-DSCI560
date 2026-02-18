@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+psycopg2
+pytesseract
+numpy
+pillow
+gensim
+scikit-learn
+nltk
+tqdm
+matplotlib
